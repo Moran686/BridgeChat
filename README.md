@@ -1,2 +1,22 @@
-# BridgeChat
-A chat application based on the front-end goeasy, uniapp and the back-end nodejs, koa2, supporting PC, APP and WeChat mini-programs
+# BridgeChat功能简述
+多人在线聊天室项目可以满足多人实时互动沟通需求。用户可通过注册登录进入聊天室界面，选择一个聊天室进入，可以在此聊天室公共聊天区域自由发表文字、表情等消息，此聊天室所有成员均能实时查看交流内容，构建起活跃的讨论氛围。而且无需管理员通过,订阅即可进入社区聊天。而且我们还拥有社区,无需管理员通过,点击订阅即可进入聊天,可以认识更多有共同兴趣爱好的朋友。
+# 技术框架
+#### 前端
+uniapp包中
+* uniapp
+* Vue2
+* GoEasy
+#### 后端
+chatRoom-master文件中
+* Nodejs
+* Koa2
+# 运行测试
+uniapp包解压，HbuilderX打开根目录src运行即可
+#### 登录测试用例
+Test1
+* 邮箱：111@qq.com
+* 密码：111111c
+
+Test2
+* 邮箱：555@qq.com
+* 密码：555555c
